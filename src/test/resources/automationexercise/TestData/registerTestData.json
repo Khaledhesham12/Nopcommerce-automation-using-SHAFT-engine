@@ -1,0 +1,13 @@
+{
+  "firstName": "automation",
+  "lastName": "tester",
+  "email": "true@gmail.com",
+  "companyName": "IT Technology",
+  "password": "P@ssw0rd",
+  "confirmPassword": "P@ssw0rd",
+  "Day" : "5",
+  "Month": "December",
+  "Year": "2000",
+  "alertText": "Your registration completed",
+  "color": "rgba(76, 177, 124, 1)"
+}

@@ -1,0 +1,49 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+    <parameter name="browser" value="chrome" />
+    <test name="Regression Test in chrome">
+        <classes>
+            <class name="automationexercise.tests.registerationTest">
+                <methods>
+                    <include name="validateRegister" />
+                </methods>
+            </class>
+            <class name="automationexercise.tests.loginTest">
+                <methods>
+                    <include name="validateValidLogin" />
+                    <include name="validateInValidLogin" />
+                </methods>
+            </class>
+            <class name="automationexercise.tests.currenciesTest">
+                <methods>
+                    <include name="validateCurrence" />
+                </methods>
+            </class>
+            <class name="automationexercise.tests.searchTest">
+                <methods>
+                    <include name="searchBYProductName" />
+                    <include name="searchBySKU" />
+                </methods>
+            </class>
+            <class name="automationexercise.tests.hoverCategoriesTest">
+                <methods>
+                    <include name="validateHover" />
+                </methods>
+            </class>
+            <class name="automationexercise.tests.followUsTest">
+                <methods>
+                    <include name="validateFacebook" />
+                    <include name="validateTwitter" />
+                    <include name="validateRss" />
+                    <include name="validateYoutube" />
+                </methods>
+            </class>
+            <class name="automationexercise.tests.wishlistTest">
+                <methods>
+                    <include name="validateSuccesMessege" />
+                    <include name="validateWishList" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

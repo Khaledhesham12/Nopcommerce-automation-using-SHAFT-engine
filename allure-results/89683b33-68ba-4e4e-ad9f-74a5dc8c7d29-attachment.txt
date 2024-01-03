@@ -1,0 +1,13 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 2' test cases in the current suite                                        
+                                  Test Method: 'automationexercise.tests.homeSlidersTest.validateIphoneSlider'                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://demo.nopcommerce.com/" @03-01-2024 11:18:52.0881 AM
+[ReportManager] Initial URL: "about:blank" @03-01-2024 11:18:52.0979 AM
+[ReportManager] Navigate to url "https://demo.nopcommerce.com/". @03-01-2024 11:18:55.0023 AM
+[ReportManager] File Action "DoesFileExist" successfully performed. With the following test data "File Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"". @03-01-2024 11:18:55.0025 AM
+[ReportManager] File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"". @03-01-2024 11:18:55.0027 AM
+[ReportManager] Expected condition failed: waiting for element found by By.xpath: //a[@class='nivo-imageLink'][1] to be selected (tried for 60 second(s) with 500 milliseconds interval) @03-01-2024 11:19:55.0438 AM
+[ReportManager] Successfully created attachment 'SHAFT Engine Logs - Current Method log: brforeMethod' @03-01-2024 11:19:55.0444 AM

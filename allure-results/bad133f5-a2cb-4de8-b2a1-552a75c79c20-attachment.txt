@@ -1,0 +1,122 @@
+[INFO ] 2024-01-03 11:17:37.067 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                                    Powered by [1mSHAFT v.7.4.20231211[22m                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:17:37.094 [main] ReportManager - Checking for engine updates...
+[INFO ] 2024-01-03 11:17:37.121 [main] ReportManager - Engine Update check done for the day. 👍
+[INFO ] 2024-01-03 11:17:37.775 [main] ReportManager - Loaded OpenCV "opencv_java481".
+[INFO ] 2024-01-03 11:17:37.776 [main] ReportManager - Initializing Allure Reporting Environment...
+[INFO ] 2024-01-03 11:17:37.940 [main] ReportManager - Initializing Extent Reporting Environment...
+[INFO ] 2024-01-03 11:17:38.792 [main] ReportManager - Initializing Summary Reporting Environment...
+[INFO ] 2024-01-03 11:17:38.815 [main] ReportManager - TestNG run detected...
+[INFO ] 2024-01-03 11:17:39.173 [main] Utils - [TestNG] Running:
+  C:\Users\Mtech\AppData\Local\JetBrains\IdeaIC2023.3\temp-testng-customsuite.xml
+
+[INFO ] 2024-01-03 11:17:39.229 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of suite setup configuration method                                             
+                                          'com.shaft.listeners.internal.ConfigurationHelper.suiteSetup'                                          
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:17:39.460 [main] ReportManager - Initializing Important Links...
+[INFO ] 2024-01-03 11:17:39.477 [main] ReportManager - Initializing Properties...
+[INFO ] 2024-01-03 11:17:39.677 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                             Starting execution of before class configuration method                                             
+                                             'automationexercise.tests.homeSlidersTest.beforeClass'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:17:39.689 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:17:39.690 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:17:39.691 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:17:39.699 [main] ReportManager - Successfully created attachment 'Test Data - JSON'
+[INFO ] 2024-01-03 11:17:39.731 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Starting execution of brfore method configuration method                                            
+                                             'automationexercise.tests.homeSlidersTest.brforeMethod'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:17:39.760 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-01-03 11:17:39.788 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\Mtech\IdeaProjects..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-01-03 11:17:39.789 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-01-03 11:17:39.789 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-01-03 11:17:43.320 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-01-03 11:17:43.528 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 2' test cases in the current suite                                        
+                                  Test Method: 'automationexercise.tests.homeSlidersTest.validateGalaxySlider'                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:17:43.617 [main] ReportManager - Target URL: "https://demo.nopcommerce.com/"
+[INFO ] 2024-01-03 11:17:43.652 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-01-03 11:17:46.261 [main] ReportManager - Navigate to url "https://demo.nopcommerce.com/".
+[INFO ] 2024-01-03 11:17:46.267 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:17:46.269 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:18:49.747 [main] ReportManager - Expected condition failed: waiting for element to be clickable: By.xpath: //a[@class='nivo-imageLink'][2] (tried for 60 second(s) with 500 milliseconds interval)
+[INFO ] 2024-01-03 11:18:49.795 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: brforeMethod'
+[INFO ] 2024-01-03 11:18:49.798 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: validateGalaxySlider'
+[INFO ] 2024-01-03 11:18:49.800 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                       Finished Execution of Test Method: 'automationexercise.tests.homeSlidersTest.validateGalaxySlider'                       
+                                                              Test Status: 'Failed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:18:49.865 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Starting execution of tear down configuration method                                              
+                                               'automationexercise.tests.homeSlidersTest.tearDown'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:18:50.452 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-01-03 11:18:50.456 [main] ReportManager - Successfully created attachment 'Browser Action Test Data - Close current window - Actual Value'
+[INFO ] 2024-01-03 11:18:50.466 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: tearDown'
+[INFO ] 2024-01-03 11:18:50.470 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                            Starting execution of brfore method configuration method                                            
+                                             'automationexercise.tests.homeSlidersTest.brforeMethod'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:18:50.475 [main] ReportManager - Setting "targetOperatingSystem" property with "windows".
+[INFO ] 2024-01-03 11:18:50.478 [main] ReportManager - Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized, --remote-allow-origins=*, --enable-automation, --disable-background-timer-..., --disable-backgrounding-occ..., --disable-features=Calculat..., --disable-hang-monitor, --disable-domain-reliability, --disable-renderer-backgrou..., --disable-features=Autofill..., --metrics-recording-only, --no-first-run, --no-default-browser-check, --silent-debugger-extension..., --disable-extensions, --disable-component-extensi..., --disable-dev-shm-usage, --disable-features=MediaRouter, --disable-features=Translate, --disable-ipc-flooding-prot..., --disable-background-networ..., --mute-audio, --disable-breakpad, --ignore-certificate-errors, --disable-device-discovery-..., --force-color-profile=srgb, --hide-scrollbars, --host-resolver-rules, --no-pings, --disable-features=AvoidUnn..., --disable-features=Certific..., --disable-sync, --disable-features=Optimiza..., --disable-features=DialMedi..., --disable-features=GlobalMe..., --disable-features=Improved..., --disable-features=LazyFram..., --disable-field-trial-config, --enable-features=NetworkSe..., --enable-features=NetworkSe..., --enable-use-zoom-for-dsf, --log-net-log, --net-log-capture-mode, --disable-client-side-phish..., --disable-default-apps, --disable-features=Interest...], extensions: [], prefs: {download.default_directory: C:\Users\Mtech\IdeaProjects..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: none, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true}
+[INFO ] 2024-01-03 11:18:50.479 [main] ReportManager - Attempting to run locally on: "windows | Chrome".
+[INFO ] 2024-01-03 11:18:50.479 [main] ReportManager - Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection...
+[INFO ] 2024-01-03 11:18:52.764 [main] ReportManager - Successfully Opened: "windows | Chrome".
+[INFO ] 2024-01-03 11:18:52.777 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 2' test cases in the current suite                                        
+                                  Test Method: 'automationexercise.tests.homeSlidersTest.validateIphoneSlider'                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:18:52.881 [main] ReportManager - Target URL: "https://demo.nopcommerce.com/"
+[INFO ] 2024-01-03 11:18:52.979 [main] ReportManager - Initial URL: "about:blank"
+[INFO ] 2024-01-03 11:18:55.024 [main] ReportManager - Navigate to url "https://demo.nopcommerce.com/".
+[INFO ] 2024-01-03 11:18:55.025 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:18:55.028 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "C:\Users\Mtech\IdeaProjects\demonopcommerce\src\test\resources\automationexercise\TestData\homeSlidersTestData.json"".
+[INFO ] 2024-01-03 11:19:55.438 [main] ReportManager - Expected condition failed: waiting for element found by By.xpath: //a[@class='nivo-imageLink'][1] to be selected (tried for 60 second(s) with 500 milliseconds interval)
+[INFO ] 2024-01-03 11:19:55.444 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: brforeMethod'
+[INFO ] 2024-01-03 11:19:55.457 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: validateIphoneSlider'
+[INFO ] 2024-01-03 11:19:55.464 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                       Finished Execution of Test Method: 'automationexercise.tests.homeSlidersTest.validateIphoneSlider'                       
+                                                              Test Status: 'Failed'                                                              
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:19:55.481 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Starting execution of tear down configuration method                                              
+                                               'automationexercise.tests.homeSlidersTest.tearDown'                                               
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:19:56.170 [main] ReportManager - Successfully Closed Driver.
+[INFO ] 2024-01-03 11:19:56.173 [main] ReportManager - Successfully created attachment 'Browser Action Test Data - Close current window - Actual Value'
+[INFO ] 2024-01-03 11:19:56.177 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Current Method log: tearDown'
+[INFO ] 2024-01-03 11:19:56.179 [main] ReportManager - 
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                           Starting execution of engine teardown configuration method                                           
+                                        'com.shaft.listeners.internal.ConfigurationHelper.engineTeardown'                                        
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[INFO ] 2024-01-03 11:19:56.180 [main] ReportManager - Successfully created attachment 'SHAFT Engine Logs - Execution log'
+[INFO ] 2024-01-03 11:19:56.182 [main] ReportManager - File Action "DoesFileExist" successfully performed. With the following test data "File Path: "target/logs/log4j.log"".
+[INFO ] 2024-01-03 11:19:56.183 [main] ReportManager - File Action "GetAbsolutePath" successfully performed. With the following test data "Relative Folder Path: "target/logs/log4j.log"".

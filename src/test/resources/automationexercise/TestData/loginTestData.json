@@ -1,0 +1,6 @@
+{
+  "expectedUrl": "https://demo.nopcommerce.com/",
+  "expectedErrorMesssege": "Login was unsuccessful. Please correct the errors and try again.\nNo customer account found",
+  "wrongEmail" : "wrong@gmail.com",
+  "colorOfErrorMessege" : "#e4434b"
+}
